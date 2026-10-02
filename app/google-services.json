@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1028689200999",
+    "project_id": "sugarcanetransport",
+    "storage_bucket": "sugarcanetransport.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028689200999:android:825468df2a42736526d1c2",
+        "android_client_info": {
+          "package_name": "com.example.sugarcanetransport"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBVf6FV15q_3-d-INdxyfrVJLCcE8VpL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
